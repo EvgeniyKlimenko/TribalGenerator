@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/database.png</file>
+        <file>icons/insert.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/update.png</file>
+        <file>icons/adjust.png</file>
+        <file>icons/generate.png</file>
+        <file>icons/about.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/move_begin.png</file>
+        <file>icons/move_down.png</file>
+        <file>icons/move_end.png</file>
+        <file>icons/move_up.png</file>
+        <file>translations/TribalGen_ru.qm</file>
+        <file>translations/TribalGen_ua.qm</file>
+        <file>icons/TribalGenerator.ico</file>
+    </qresource>
+</RCC>
